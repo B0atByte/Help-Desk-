@@ -1,0 +1,22 @@
+# Sensitive & environment
+.env
+*.log
+*.bak
+*.zip
+
+# Composer dependencies
+/vendor/
+
+# Node modules (ถ้ามี)
+/node_modules/
+
+# Editors / IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Cache
+*.cache
